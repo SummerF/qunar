@@ -1,0 +1,498 @@
+{
+    "ret": true,
+    "data": {
+        "swiperList": [
+            {
+                "id": "0001",
+                "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/3921acb51460dc6fa9e3c7464fac5cbb.jpg_750x200_d992573a.jpg"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1812/d6/daa880b254940402.jpg_750x200_b114308a.jpg"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1811/31/da037478f37cf202.jpg_750x200_fe28d396.jpg"
+            },
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+            },
+            {
+                "id": "0005",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
+            }
+        ],
+        "iconList": [
+            {
+                "id": "0001",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                "desc": "景点门票"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+                "desc": "一日游"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+                "desc": "背景必游"
+            },
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+                "desc": "溜娃儿"
+            },
+            {
+                "id": "0005",
+                "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/0334cf5430b9b5505fd79e2b8d7e8670.png",
+                "desc": "爬长城"
+            },
+            {
+                "id": "0006",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png",
+                "desc": "故宫"
+            },
+            {
+                "id": "0007",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/22/98cbc1ff9e33fe02.png",
+                "desc": "北京庙会"
+            },
+            {
+                "id": "0008",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fc/b10a6b2e4f0fe102.png",
+                "desc": "北京滑雪"
+            },
+            {
+                "id": "0009",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+                "desc": "泡温泉"
+            },
+            {
+                "id": "0010",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b2/bfbc5d66e0ab5a02.png",
+                "desc": "泡温泉"
+            }
+        ],
+        "hotlist": [
+            {
+                "id": "0001",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺",
+                "score": "5.0",
+                "ratingNum": 350644,
+                "strategy": 93,
+                "minprice": 20,
+                "city": "东城区",
+                "infos": {
+                    "title": "故宫(AAAAA景区)",
+                    "bannerImg": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_600x330_f922b488.jpg",
+                    "gallaryImgs": [
+                        "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_r_800x800_6edd8174.jpg",
+                        "http://img1.qunarzz.com/sight/p55/201211/04/fbcab3e5d6479ce893835fbb.jpg_r_800x800_6360f514.jpg",
+                        "http://img1.qunarzz.com/wugc/p180/201306/16/7f08e81624346b1693835fbb.jpg_r_800x800_5f03ad73.jpg",
+                        "http://img1.qunarzz.com/wugc/p123/201211/19/a2045d091f02b25493835fbb.png_r_800x800_c59f0eba.png",
+                        "http://img1.qunarzz.com/sight/p0/1410/e3/73da8d3e19cdc41c1932d4fcd22ec792.water.jpg_r_800x800_7f96ccf9.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1410/9d/fe8109ab5df1c9c324e74284fa802e72.water.jpg_r_800x800_b9a5440a.jpg",
+                        "http://img1.qunarzz.com/wugc/p238/201306/16/d9090c728fed64eb93835fbb.jpg_r_800x800_7329a802.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1501/af/af47583adca3f972.water.jpg_r_800x800_5a57e1fe.jpg"
+                    ],
+                    "foods": [
+                        {
+                            "title": "【当日票】故宫成人票凭身份证入园（随买随用，快速入园）",
+                            "desc": "15:30前随买随用",
+                            "info": ["自营","无需换票", "条件退"]
+                            
+                        },
+                        {
+                            "title": "【下午场】故宫成人票凭身份证快速入园（淡季）",
+                            "desc": "23:59前可订明日",
+                            "info": ["自营","无需换票", "条件退"]
+                        },
+                        {
+                            "title": "【去哪儿精选】天安门+故宫+八达岭长城+鸟巢水立方 赠珍宝馆",
+                            "desc": "23:59前可订明日",
+                            "info": ["自营","条件退"]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_250x250_63e3520a.jpg",
+                "title": "圆明园",
+                "desc": "世界五大宫之首，穿越与您近在咫尺",
+                "score": "4.9",
+                "ratingNum": 31448,
+                "strategy": 38,
+                "minprice": 25,
+                "city": "海淀区",
+                "infos": {
+                    "title": "圆明园(AAAA景区)",
+                    "bannerImg": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_600x330_f922b488.jpg",
+                    "gallaryImgs": [
+                        "http://img1.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_r_800x800_80237e33.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1611/22/2268f3e399d9eabaa3.water.jpg_r_800x800_49c9f282.jpg",
+                        "http://img1.qunarzz.com/wugc/p118/201306/06/03acfb2cd0403ee893835fbb.jpg_r_800x800_0d009867.jpg",
+                        "http://img1.qunarzz.com/wugc/p1/201306/10/317161d59875e03b93835fbb.jpg_r_800x800_0367dc4f.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1501/c8/e22cb0e7e0d5deb7a7c0a82d10837f9c.water.jpg_r_800x800_2bd08c3c.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1503/98/98e3de0a8526f2df.water.jpg_r_800x800_8041e76f.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1501/cc/bc36539062e18e851b7fcf4c09e8f751.water.jpg_r_800x800_16fc32bb.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1501/d9/9b592a05f11f80aa6810e2fa6b487a64.water.jpg_r_800x800_7540ae5e.jpg",
+                        "http://img1.qunarzz.com/wugc/p209/201204/20/f26b6d920360e66f93835fbb.jpg_r_800x800_60c43177.jpg"
+                    ],
+                    "foods": [
+                        {
+                            "title": "【随买随用】北京圆明园电子套票",
+                            "desc": "可订明日",
+                            "info": ["自营","无需换票", "条件退"]
+                            
+                        },
+                        {
+                            "title": "圆明园门票+资深导游讲解服务*儿童/学生/老人票",
+                            "desc": "可订明日",
+                            "info": ["自营", "条件退"]
+                        },
+                        {
+                            "title": "北京圆明园门票+资深导游讲解服务*成人票",
+                            "desc": "可订明日",
+                            "info": ["自营","条件退"]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_200x200_2458ffb2.jpg",
+                "title": "八达岭长城",
+                "desc": "不到长城非好汉",
+                "score": "4.9",
+                "ratingNum": 44805,
+                "strategy": 70,
+                "minprice": 157.5,
+                "city": "延庆区",
+                "infos": {
+                    "title": "八达岭长城(AAAAA景区)",
+                    "bannerImg": "http://img1.qunarzz.com/sight/p0/1901/97/97f793f8c9f37ac7a3.img.png_600x330_acff2d9f.png",
+                    "gallaryImgs": [
+                        "http://img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_r_800x800_ae28174d.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1803/f9/f96ac7520e964ad4a3.img.jpg_r_800x800_93b843b1.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1803/ef/ef5218ec61ba9b5ca3.img.jpg_r_800x800_33d7d17d.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1803/3e/3efbb3098439469a3.img.jpg_r_800x800_00dd921a.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1803/37/378a83cb261e591fa3.img.jpg_r_800x800_0467578a.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1708/dc/dcaa049ed53249a8a3.img.jpg_r_800x800_aac63fba.jpg"
+                    ],
+                    "foods": [
+                        {
+                            "title": "八达岭长城门票+索道/地面缆车往返成人票（淡季）",
+                            "desc": "可订明日",
+                            "info": ["自营","随时退"]
+                        },
+                        {
+                            "title": "【可订当天】10-12点懒游晚起-八达岭长城自助漫游1日游",
+                            "desc": "可订明日",
+                            "info": ["条件退","无购物","已售2472"]
+                        },
+                        {
+                            "title": "【可选上门接】北京八达岭长城+十三陵定陵或颐和园纯玩一日游",
+                            "desc": "23:55前可订明日",
+                            "info": ["条件退","无购物","已售3541"]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1901/97/97f793f8c9f37ac7a3.img.png_200x200_29601dba.png",
+                "title": "北京欢乐谷",
+                "desc": "亚洲唯一飞行式过山车等你来挑战",
+                "score": "5.0",
+                "ratingNum": 67353,
+                "strategy": 20,
+                "minprice": 97.6,
+                "city": "朝阳区",
+                "infos": {
+                    "title": "北京欢乐谷(AAAA景区)",
+                    "bannerImg": "http://img1.qunarzz.com/sight/p0/1901/97/97f793f8c9f37ac7a3.img.png_600x330_acff2d9f.png",
+                    "gallaryImgs": [
+                        "http://img1.qunarzz.com/sight/p0/1901/97/97f793f8c9f37ac7a3.img.png_r_800x800_8e26af97.png",
+                        "http://img1.qunarzz.com/sight/p0/1901/d4/d4c89ef863404301a3.img.png_r_800x800_1983b735.png",
+                        "http://img1.qunarzz.com/sight/p0/1901/91/91d8154bb239ac0ea3.img.png_r_800x800_d2bc1a75.png",
+                        "http://img1.qunarzz.com/sight/p0/1508/89/895a1b7add84f23faca053ce9e3153db.water.jpg_r_800x800_087730c7.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1901/46/46416618f4ae8e95a3.img.png_r_800x800_f01d985b.png",
+                        "http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_r_800x800_4701d58f.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1901/ef/efd26a627912c27ca3.img.png_r_800x800_9969540b.png",
+                        "http://img1.qunarzz.com/sight/p0/1507/b0/debf337993099d34013807df5cf5545b.water.jpg_r_800x800_73c0f11b.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1901/6a/6acf92614c94ead4a3.img.png_r_800x800_94921738.png",
+                        "http://img1.qunarzz.com/sight/p0/1507/b9/7ce37fa2e77ad7b9cb49d54352c8e357.water.jpg_r_800x800_c52ed9f4.jpg"
+                    ],
+                    "foods": [
+                        {
+                            "title": "【刷身份证入园，无需换票】北京欢乐谷夜场单人票",
+                            "desc": "可订明日",
+                            "info": ["无需换票","条件退"]
+                        },
+                        {
+                            "title": "北京欢乐谷欢乐谷冬季日场票",
+                            "desc": "可订明日",
+                            "info": ["无需换票","随时退"]
+                        },
+                        {
+                            "title": "【立即发码刷身份证急速入园】北京欢乐谷夜场新春夜场-成人票",
+                            "desc": "可订明日",
+                            "info": ["无需换票","随时退"]
+                        }
+                    ]
+                }
+            }
+        ],
+        "recommendList": [
+            {
+                "id": "0001",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺",
+                "score": "5.0",
+                "ratingNum": 350644,
+                "strategy": 93,
+                "minprice": 20,
+                "city": "东城区",
+                "infos": {
+                    "title": "故宫(AAAAA景区)",
+                    "bannerImg": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_600x330_f922b488.jpg",
+                    "gallaryImgs": [
+                        "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_r_800x800_6edd8174.jpg",
+                        "http://img1.qunarzz.com/sight/p55/201211/04/fbcab3e5d6479ce893835fbb.jpg_r_800x800_6360f514.jpg",
+                        "http://img1.qunarzz.com/wugc/p180/201306/16/7f08e81624346b1693835fbb.jpg_r_800x800_5f03ad73.jpg",
+                        "http://img1.qunarzz.com/wugc/p123/201211/19/a2045d091f02b25493835fbb.png_r_800x800_c59f0eba.png",
+                        "http://img1.qunarzz.com/sight/p0/1410/e3/73da8d3e19cdc41c1932d4fcd22ec792.water.jpg_r_800x800_7f96ccf9.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1410/9d/fe8109ab5df1c9c324e74284fa802e72.water.jpg_r_800x800_b9a5440a.jpg",
+                        "http://img1.qunarzz.com/wugc/p238/201306/16/d9090c728fed64eb93835fbb.jpg_r_800x800_7329a802.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1501/af/af47583adca3f972.water.jpg_r_800x800_5a57e1fe.jpg"
+                    ],
+                    "foods": [
+                        {
+                            "title": "【当日票】故宫成人票凭身份证入园（随买随用，快速入园）",
+                            "desc": "15:30前随买随用",
+                            "info": ["自营","无需换票", "条件退"]
+                            
+                        },
+                        {
+                            "title": "【下午场】故宫成人票凭身份证快速入园（淡季）",
+                            "desc": "23:59前可订明日",
+                            "info": ["自营","无需换票", "条件退"]
+                        },
+                        {
+                            "title": "【去哪儿精选】天安门+故宫+八达岭长城+鸟巢水立方 赠珍宝馆",
+                            "desc": "23:59前可订明日",
+                            "info": ["自营","条件退"]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1510/8e/8eea8eb6f41698290.img.jpg_200x200_595cfa1d.jpg",
+                "title": "金隅凤山温泉",
+                "desc": "在温泉汤池中增添独享欢乐的私密空间",
+                "score": "5.0",
+                "ratingNum": 631,
+                "strategy": 1,
+                "minprice": 248,
+                "city": "昌平区",
+                "infos": {
+                    "title": "金隅凤山温泉",
+                    "bannerImg": "http://img1.qunarzz.com/sight/p0/1510/8e/8eea8eb6f41698290.img.jpg_600x330_0f845e87.jpg",
+                    "gallaryImgs": [
+                        "http://img1.qunarzz.com/sight/p0/1510/8e/8eea8eb6f41698290.img.jpg_r_800x800_83a5fe3a.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1807/6e/6e7d08b1502ab022a3.img.jpg_r_800x800_1cf43d9c.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1807/19/19fc811143618ed9a3.img.jpg_r_800x800_2bf651c0.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1807/42/428a814cc6fc214da3.img.jpg_r_800x800_8b660805.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1807/c6/c63be17675a27fc1a3.img.jpg_r_800x800_3b8e6161.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1510/22/22d2c7ba0210a92190.img.jpg_r_800x800_533783e8.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1510/5b/5b8e823def41aaf390.img.jpg_r_800x800_51e80019.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1510/3b/3b838849c32f827890.img.jpg_r_800x800_45a8c52a.jpg"
+                    ],
+                    "foods": [
+                        {
+                            "title": "凤山温泉度假村门票成人票(平日 )",
+                            "desc": "19:00前可订今日,预订后4小时可用",
+                            "info": ["随时退"]
+                        },
+                        {
+                            "title": "金隅凤山温泉—周末票",
+                            "desc": "可订明日",
+                            "info": ["条件退"]
+                        },
+                        {
+                            "title": "凤山温泉度假村门票+餐代金券成人票(周一至周四)",
+                            "desc": "19:59前可订今日,预订后4小时可用",
+                            "info": ["条件退","无购物", "已售"]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1901/97/97f793f8c9f37ac7a3.img.png_200x200_29601dba.png",
+                "title": "北京欢乐谷",
+                "desc": "亚洲唯一飞行式过山车等你来挑战",
+                "score": "5.0",
+                "ratingNum": 67353,
+                "strategy": 20,
+                "minprice": 97.6,
+                "city": "朝阳区",
+                "infos": {
+                    "title": "北京欢乐谷(AAAA景区)",
+                    "bannerImg": "http://img1.qunarzz.com/sight/p0/1901/97/97f793f8c9f37ac7a3.img.png_600x330_acff2d9f.png",
+                    "gallaryImgs": [
+                        "http://img1.qunarzz.com/sight/p0/1901/97/97f793f8c9f37ac7a3.img.png_r_800x800_8e26af97.png",
+                        "http://img1.qunarzz.com/sight/p0/1901/d4/d4c89ef863404301a3.img.png_r_800x800_1983b735.png",
+                        "http://img1.qunarzz.com/sight/p0/1901/91/91d8154bb239ac0ea3.img.png_r_800x800_d2bc1a75.png",
+                        "http://img1.qunarzz.com/sight/p0/1508/89/895a1b7add84f23faca053ce9e3153db.water.jpg_r_800x800_087730c7.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1901/46/46416618f4ae8e95a3.img.png_r_800x800_f01d985b.png",
+                        "http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_r_800x800_4701d58f.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1901/ef/efd26a627912c27ca3.img.png_r_800x800_9969540b.png",
+                        "http://img1.qunarzz.com/sight/p0/1507/b0/debf337993099d34013807df5cf5545b.water.jpg_r_800x800_73c0f11b.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1901/6a/6acf92614c94ead4a3.img.png_r_800x800_94921738.png",
+                        "http://img1.qunarzz.com/sight/p0/1507/b9/7ce37fa2e77ad7b9cb49d54352c8e357.water.jpg_r_800x800_c52ed9f4.jpg"
+                    ],
+                    "foods": [
+                        {
+                            "title": "【刷身份证入园，无需换票】北京欢乐谷夜场单人票",
+                            "desc": "可订明日",
+                            "info": ["无需换票","条件退"]
+                        },
+                        {
+                            "title": "北京欢乐谷欢乐谷冬季日场票",
+                            "desc": "可订明日",
+                            "info": ["无需换票","随时退"]
+                        },
+                        {
+                            "title": "【立即发码刷身份证急速入园】北京欢乐谷夜场新春夜场-成人票",
+                            "desc": "可订明日",
+                            "info": ["无需换票","随时退"]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_200x200_2458ffb2.jpg",
+                "title": "八达岭长城",
+                "desc": "不到长城非好汉",
+                "score": "4.9",
+                "ratingNum": 44805,
+                "strategy": 70,
+                "minprice": 157.5,
+                "city": "延庆区",
+                "infos": {
+                    "title": "八达岭长城(AAAAA景区)",
+                    "bannerImg": "http://img1.qunarzz.com/sight/p0/1901/97/97f793f8c9f37ac7a3.img.png_600x330_acff2d9f.png",
+                    "gallaryImgs": [
+                        "http://img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_r_800x800_ae28174d.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1803/f9/f96ac7520e964ad4a3.img.jpg_r_800x800_93b843b1.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1803/ef/ef5218ec61ba9b5ca3.img.jpg_r_800x800_33d7d17d.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1803/3e/3efbb3098439469a3.img.jpg_r_800x800_00dd921a.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1803/37/378a83cb261e591fa3.img.jpg_r_800x800_0467578a.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1708/dc/dcaa049ed53249a8a3.img.jpg_r_800x800_aac63fba.jpg"
+                    ],
+                    "foods": [
+                        {
+                            "title": "八达岭长城门票+索道/地面缆车往返成人票（淡季）",
+                            "desc": "可订明日",
+                            "info": ["自营","随时退"]
+                        },
+                        {
+                            "title": "【可订当天】10-12点懒游晚起-八达岭长城自助漫游1日游",
+                            "desc": "可订明日",
+                            "info": ["条件退","无购物","已售2472"]
+                        },
+                        {
+                            "title": "【可选上门接】北京八达岭长城+十三陵定陵或颐和园纯玩一日游",
+                            "desc": "23:55前可订明日",
+                            "info": ["条件退","无购物","已售3541"]
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "0005",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/43/dea8b51719a4a69b68777baa68c146e4.water.jpg_200x200_8da8cebe.jpg",
+                "title": "春晖园温泉度假村",
+                "desc": "",
+                "score": "4.9",
+                "ratingNum": 1608,
+                "strategy": 1,
+                "minprice": 105.9,
+                "city": "顺义区",
+                "infos": {
+                    "title": "春晖园温泉度假村",
+                    "bannerImg": "http://img1.qunarzz.com/sight/p0/1901/97/97f793f8c9f37ac7a3.img.png_600x330_acff2d9f.png",
+                    "gallaryImgs": [
+                        "http://img1.qunarzz.com/sight/p0/1411/43/dea8b51719a4a69b68777baa68c146e4.water.jpg_r_800x800_8bf7ccd9.jpg",
+                        "http://img1.qunarzz.com/sight/p0/201403/07/775e090c2cacd7a993873a5c43add1b5.jpg_r_800x800_d43337d2.jpg",
+                        "http://img1.qunarzz.com/sight/p0/201403/07/269ee5e68aacc542347b1d8e49973e4e.jpg_r_800x800_1cfe1ee5.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1411/41/702814dae366887805892f66e31f0ac6.water.jpg_r_800x800_3ebf01a1.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1411/b7/5d0e521e1d2c9cae68354775605b043b.water.jpg_r_800x800_43575054.jpg",
+                        "http://img1.qunarzz.com/sight/p0/1411/95/5dc200113886bac9db1f8f03d1e110e0.water.jpg_r_800x800_6b9cbc56.jpg",
+                        "http://img1.qunarzz.com/sight/p0/201403/07/13d4b2a208071c44e87fcc9a82544557.jpg_r_800x800_67ad5545.jpg",
+                        "http://img1.qunarzz.com/wugc/p77/201204/20/10d9b0927bfb0fa693835fbb.jpg_r_800x800_847c2a98.jpg",
+                        "http://img1.qunarzz.com/tuan/team2/1507/95/ef876ae4b1a449.jpg_r_800x800_2cc956e1.jpg"
+                    ],
+                    "foods": [
+                        {
+                            "title": "[平日]春晖园温泉成人票（不含餐）",
+                            "desc": "22:00前随买随用",
+                            "info": ["自营","随时退"]
+                        },
+                        {
+                            "title": "[周末/节假日]春晖园温泉成人票（不含餐）（提前2小时预约）",
+                            "desc": "可订2月16日",
+                            "info": ["自营","不可退"]
+                        },
+                        {
+                            "title": "北京春晖园温泉度假酒店平日含餐成人票",
+                            "desc": "21:59前随买随用",
+                            "info": ["自营","随时退"]
+                        }
+                    ]
+                }
+            }
+        ],
+        "weekendList": [
+            {
+                "id": "0001",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1510/6e/1ea71e2f04e.jpg_r_640x214_aa6f091d.jpg",
+                "title": "北京温泉排行榜",
+                "desc": "细数北京温泉，温暖你的冬天"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/aa/7baaf8a851d221.jpg_r_640x214_1431200f.jpg",
+                "title": "北京必游TOP10",
+                "desc": "来北京必去的景点非这些地方莫属"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+                "title": "寻找北京的皇城范儿",
+                "desc": "数百年的宫廷庙宇，至今依旧威严霸气"
+            },
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/ce/bc89bc2f0e33ea.jpg_r_640x214_3e408453.jpg",
+                "title": "学生最爱的博物馆",
+                "desc": "周末干嘛？北京很多博物馆已经免费开放啦"
+            },
+            {
+                "id": "0005",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/b2/fde1bfcd057a52.jpg_r_640x214_bbf3fa44.jpg",
+                "title": "儿童剧场，孩子的乐园",
+                "desc": "带宝贝观看演出，近距离体验艺术的无穷魅力"
+            }
+        ]
+    }
+}
