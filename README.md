@@ -1,5 +1,8 @@
 # Vue-cli3.0 重构去哪里网
 
+## 项目说明
+Vue2.5 + Vue-Router3.0 + Vuex3.1
+
 ## Project setup
 
 ```
